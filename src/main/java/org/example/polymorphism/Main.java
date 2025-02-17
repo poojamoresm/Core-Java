@@ -10,5 +10,8 @@ public class Main {
         Parent p = new Parent();
         p.fun(2);
         p.fun();
+
+        Father f = new Father();
+        f.role();
     }
 }
